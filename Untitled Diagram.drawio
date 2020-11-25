@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T15:01:16.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="dBGjqH7iUEHz_dyPcxaY" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T15:02:23.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="-etgnAibxcdfHMXpKpPz" version="13.10.0" type="github">
   <diagram id="ZPAU0np4bdxllWD1hH61" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="iKHIjdII1YGswTDkS9N2-47" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="130.83" y="237" width="484.17" height="232" as="geometry" />
         </mxCell>
-        <mxCell id="iKHIjdII1YGswTDkS9N2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iKHIjdII1YGswTDkS9N2-19" target="iKHIjdII1YGswTDkS9N2-41">
+        <mxCell id="iKHIjdII1YGswTDkS9N2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="iKHIjdII1YGswTDkS9N2-19" target="iKHIjdII1YGswTDkS9N2-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iKHIjdII1YGswTDkS9N2-19" value="Event&#xa;Sub-Process" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeWidth=2;" vertex="1" parent="1">
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="iKHIjdII1YGswTDkS9N2-54" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Search_Grid.svg;" vertex="1" parent="1">
           <mxGeometry x="797" y="397.5" width="68" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="iKHIjdII1YGswTDkS9N2-59" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;align=right;" vertex="1" parent="1">
+          <mxGeometry x="645.25" y="82" width="256.5" height="251" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
